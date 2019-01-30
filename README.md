@@ -1,1 +1,1 @@
-# learning-git-2
+https://wyrwat.github.io/learning-git-2/
