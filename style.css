@@ -1,11 +1,6 @@
 body {
-<<<<<<< HEAD
 	background-color: blue;
-=======
-	background-color: orange;
->>>>>>> task-2
 	width: 100%;
-	
 }
 
 h1 {
@@ -26,7 +21,7 @@ h2 {
 }
 
 p {
-	color: white;
+	color: black;
 	text-transform: uppercase;
 	padding-bottom: 10px;
 }
